@@ -1,0 +1,7 @@
+/*
+!src
+!pom.xml
+!.gitignore
+!/target/
+/target/*
+!target/myname1.jar
